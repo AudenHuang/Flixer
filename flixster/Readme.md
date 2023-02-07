@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 [Video Walkthrough](https://imgur.com/vfsAREP)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Imgur](https://imgur.com)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
