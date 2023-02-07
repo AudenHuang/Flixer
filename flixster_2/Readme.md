@@ -1,45 +1,41 @@
-# Project 2 - *Flixster*
+# Project 3 - *Flixster*
 
 Submitted by: **Auden Huang**
 
-**Flixster** is a movie browsing app that fetched movies' data from the The Movie DB (TMDB) API using URLSession, so the information will be up to date. This app  
+**Flixster** is an app that introduces networking to a shows the latest movies currently playing in theaters. The app connects to The Movie Data Base (TMDB) to fetch the info. There are three sections in this app. One labeled Movie for the current playing movies displaying in a list, and the collection section display the same movies in collection style. The third section TopRated display top rated movies in a compact collection style
 
-Time spent: **10** hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Your app should work for any screen size and orientation using AutoLayout constraints
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
-- [x] Unique UI changes, such as background, font/color changes, etc.
-- [x] User implements a collection view
-- [x] User implemenets tab bar controller with at least two screens
+- [x] Make an additional network call to another end-point.	
+     - end-point being top rated movies
+- [x] Allow users to scroll when context items are off-screen
 
 The following **additional** features are implemented:
 
-- [x] Used scroll view for movies's details (so that the user can scroll through the description of the movie if it went out of range
-- [x] Fetched movies' data from the The Movie DB (TMDB) API using URLSession
-- [x] Fetched different movies from The Movie DB for the collection view
-- [x] Users are able to see customized tab bar's icons
+- [x] All sections are connect to the details of the movies through clicking the poster
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-[https://imgur.com/a/YX1KflI](https://imgur.com/a/YX1KflI)
+[Video Walkthrough](https://imgur.com/vfsAREP)
 
-
-GIF created with [imgur](https://imgur.com/upload)
-
-## Notes
-
-None
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [Imgur](https://imgur.com)
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## License
 
