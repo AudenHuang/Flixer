@@ -20,6 +20,10 @@ The following **optional** features are implemented:
      - end-point being top rated movies
 - [x] Allow users to scroll when context items are off-screen
 
+The following **additional** features are implemented:
+
+- [x] All sections are connect to the details of the movies through clicking the poster
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
