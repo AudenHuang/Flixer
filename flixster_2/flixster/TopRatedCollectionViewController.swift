@@ -1,14 +1,15 @@
 //
-//  MovieCollectionViewController.swift
+//  TopRatedCollectionViewController.swift
 //  flixster
 //
-//  Created by Auden Huang on 2/1/23.
+//  Created by Auden Huang on 2/4/23.
 //
 
 import UIKit
 import Nuke
 
-class MovieCollectionViewController: UIViewController,UICollectionViewDataSource, UICollectionViewDelegate {
+class TopRatedCollectionViewController: UIViewController,UICollectionViewDataSource, UICollectionViewDelegate {
+    
     @IBOutlet weak var MovieCollectionView: UICollectionView!
     var movies = [[String: Any]]()
     override func viewDidLoad() {
@@ -22,10 +23,10 @@ class MovieCollectionViewController: UIViewController,UICollectionViewDataSource
         layout.minimumLineSpacing = 5
         layout.minimumInteritemSpacing = 1
         
-        let width = (MovieCollectionView.bounds.width - layout.minimumInteritemSpacing * 2) / 5
+        let width = (MovieCollectionView.bounds.width - layout.minimumInteritemSpacing * 3) / 2
         layout.itemSize = CGSize(width: width, height: width * 3 / 2)
         
-        let url = URL(string: "https://api.themoviedb.org/3/movie/now_playing?api_key=dfaa3fb7c1543c45ced1c29e12293102")!
+        let url = URL(string: "https://api.themoviedb.org/3/movie/top_rated?api_key=dfaa3fb7c1543c45ced1c29e12293102")!
         let request = URLRequest(url: url, cachePolicy: .reloadIgnoringLocalCacheData, timeoutInterval: 10)
         let session = URLSession(configuration: .default, delegate: nil, delegateQueue: OperationQueue.main)
         let task = session.dataTask(with: request) { (data, response, error) in

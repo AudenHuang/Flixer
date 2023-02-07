@@ -17,6 +17,7 @@
 		124A9A7B297B180A006AAACF /* flixsterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124A9A7A297B180A006AAACF /* flixsterUITestsLaunchTests.swift */; };
 		124A9A8D297B19F6006AAACF /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = 124A9A8C297B19F6006AAACF /* Nuke */; };
 		124A9A92297B1DB9006AAACF /* MovieListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124A9A91297B1DB9006AAACF /* MovieListViewController.swift */; };
+		5C54A5922991C2CF00BF338A /* TopRatedCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C54A5912991C2CF00BF338A /* TopRatedCollectionViewController.swift */; };
 		5CA13E30298A625E00EC93AD /* MovieDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA13E2F298A625D00EC93AD /* MovieDetailViewController.swift */; };
 		5CA13E36298A637C00EC93AD /* MovieCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA13E35298A637C00EC93AD /* MovieCollectionViewController.swift */; };
 		5CA13E38298A63AF00EC93AD /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA13E37298A63AF00EC93AD /* MovieTableViewCell.swift */; };
@@ -54,6 +55,7 @@
 		124A9A78297B180A006AAACF /* flixsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixsterUITests.swift; sourceTree = "<group>"; };
 		124A9A7A297B180A006AAACF /* flixsterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixsterUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		124A9A91297B1DB9006AAACF /* MovieListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListViewController.swift; sourceTree = "<group>"; };
+		5C54A5912991C2CF00BF338A /* TopRatedCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopRatedCollectionViewController.swift; sourceTree = "<group>"; };
 		5CA13E2F298A625D00EC93AD /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		5CA13E35298A637C00EC93AD /* MovieCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewController.swift; sourceTree = "<group>"; };
 		5CA13E37298A63AF00EC93AD /* MovieTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				124A9A91297B1DB9006AAACF /* MovieListViewController.swift */,
 				5CA13E2F298A625D00EC93AD /* MovieDetailViewController.swift */,
 				5CA13E35298A637C00EC93AD /* MovieCollectionViewController.swift */,
+				5C54A5912991C2CF00BF338A /* TopRatedCollectionViewController.swift */,
 				5CA13E37298A63AF00EC93AD /* MovieTableViewCell.swift */,
 				5CA13E39298A63D100EC93AD /* MovieCollectionViewCell.swift */,
 			);
@@ -285,6 +288,7 @@
 				124A9A5A297B1808006AAACF /* SceneDelegate.swift in Sources */,
 				5CA13E36298A637C00EC93AD /* MovieCollectionViewController.swift in Sources */,
 				5CA13E3A298A63D100EC93AD /* MovieCollectionViewCell.swift in Sources */,
+				5C54A5922991C2CF00BF338A /* TopRatedCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,7 +465,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P64BHXUP6C;
+				DEVELOPMENT_TEAM = B62Z9B2HHZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flixster/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -474,7 +478,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = andersondavid.flixster;
+				PRODUCT_BUNDLE_IDENTIFIER = audenhuang.flixster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -489,7 +493,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = P64BHXUP6C;
+				DEVELOPMENT_TEAM = B62Z9B2HHZ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = flixster/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -502,7 +506,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = andersondavid.flixster;
+				PRODUCT_BUNDLE_IDENTIFIER = audenhuang.flixster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6E3EE5B1-2C4D-488B-849A-38F565628252"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CE622B3-7786-4982-8F2E-0313D3C12EC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/TopRatedCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/TopRatedCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TopRatedCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - 202b9c5f22749f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.MovieCollectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - 147932246342b765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.MovieCollectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - 132a7508fa5a1174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.MovieCollectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - 625b66f19cd4b26e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.MovieCollectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - c8979ca0f16a95a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flixster.TopRatedCollectionViewController"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "2CDAFBE7-92D3-4F94-B0CA-3DDB3E7F2647 - 24735bdd4876405a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.TopRatedCollectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.TopRatedCollectionViewController&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/auden/Desktop/flixster_2/flixster/TopRatedCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
