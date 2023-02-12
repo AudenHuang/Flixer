@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[https://imgur.com/a/YX1KflI](https://imgur.com/a/YX1KflI)
+[Video Walkthrough](https://imgur.com/a/YX1KflI)
 
 
 GIF created with [imgur](https://imgur.com/upload)
